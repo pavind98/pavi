@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int n;
+printf("enter the value");
+if(n<=0)
+{
+printf("the number is negative");
+}
+else
+{
+printf("the  number is positive");
+}
+getch();
+}
